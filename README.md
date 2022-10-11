@@ -27,8 +27,8 @@ Os usuários devem estar aptos a:
 
 ### 📸 Screenshot
 
-![MobileScreenshot](./signup-form/src/assets/images/mobile-design.jpeg)
-![DesktopScreenshot](./signup-form/src/assets/images/desktop-design.jpeg)
+![MobileScreenshot](../signup-form/src/assets/images/mobile-design.jpeg)
+![DesktopScreenshot](../signup-form/src/assets/images/desktop-design.jpeg)
 
 ## Meu processo
 
