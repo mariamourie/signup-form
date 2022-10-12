@@ -65,7 +65,7 @@ export default function SignUpForm() {
                     </div>
                     <div className="form-group d-flex mb-4 mt-2">
                         <input type="checkbox" className="form-check-input mb-1" name="termsOfService" /> 
-                        <label className="ms-2 mt-md-3 mt-md-0">I agree to Platform's <strong className="span-text">Terms of Service</strong> and <strong className="span-text">Privacy Policy</strong></label>
+                        <label className="ms-2 mt-md-0">I agree to Platform's <strong className="span-text">Terms of Service</strong> and <strong className="span-text">Privacy Policy</strong></label>
                     </div>
                     <div className="invalid-feedback text-invalid mt-2 text-start">
                         Accept the terms
