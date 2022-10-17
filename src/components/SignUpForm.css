@@ -96,4 +96,5 @@
 }
 .text-invalid {
     color: var(--danger-text);
+    font-size: 1.1em;
 }
