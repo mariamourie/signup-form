@@ -27,6 +27,7 @@ Os usuários devem estar aptos a:
 
 - Visualizar o layout de acordo com o tamanho de sua tela
 - Visualizar o efeito hover para todos os elementos interativos.
+- Visualizar mensagem sobre o preenchimento incorreto dos campos, caso tenha deixado um campo vazio.
 
 ### 📸 Screenshot
 
@@ -47,7 +48,6 @@ Os usuários devem estar aptos a:
 
 - Visual Studio Code
 - Git Bash
-- Git
 - Node.js
 
 ### Fontes úteis
@@ -68,4 +68,4 @@ Nesse projeto tive a oportunidade de relembrar e exercitar as tecnologias React 
 
 <br>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mariamourie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-eduarda-cruz) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/maria-eduarda-cruz) 
