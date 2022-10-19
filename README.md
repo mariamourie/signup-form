@@ -32,7 +32,7 @@ Os usuários devem estar aptos a:
 ### 📸 Screenshot
 
 ![Mobile Screenshot](./src/assets/images/mobile-design.jpeg)
-![Desktop Screenshot](./src/assets/images/desktop-design.jpeg)
+![Active states](./src/assets/images/active-states.jpeg)
 
 ## Meu processo
 
